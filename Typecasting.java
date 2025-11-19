@@ -38,7 +38,7 @@ public class Typecasting
        //Escape Sequence
         System.out.println("Hello\nWorld:");
         System.out.println ("Hamro\t Nepal");
-        System.out.println ("He said \"HI\"");
+        System.out.println ("He said3 \"HI\"");
         System.out.println("\u2764\uFE0F");
        
        
